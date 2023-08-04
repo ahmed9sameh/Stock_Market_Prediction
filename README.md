@@ -1,6 +1,6 @@
 # Stock Market Prediction Project
 
-![Stock Market Prediction](https://png.pngtree.com/element_our/20190524/ourmid/pngtree-beautiful-hand-painted-stock-market-rising-png-element-image_1096860.jpg)
+![Stock Market Prediction]([https://png.pngtree.com/element_our/20190524/ourmid/pngtree-beautiful-hand-painted-stock-market-rising-png-element-image_1096860.jpg](https://media.istockphoto.com/id/1322201350/photo/digitally-enhanced-shot-of-a-graph-showing-the-ups-and-downs-shares-on-the-stock-market.jpg?s=612x612&w=0&k=20&c=XRsOnrdHQIoqaolR00ganJACUpCxD4JCELt3N3Mm3tk=))
 
 Welcome to the Stock Market Prediction project! This repository contains a data science project aimed at predicting stock prices using machine learning techniques.
 
